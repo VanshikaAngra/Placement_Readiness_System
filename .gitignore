@@ -1,10 +1,5 @@
-# Python / Flask
-__pycache__/
-*.py[cod]
-*$py.class
 venv/
-env/
+__pycache__/
+.env
 *.sqlite3
-instance/
-.DS_Store
-.vscode/
+node_modules/
